@@ -1,0 +1,9 @@
+D:\Валера\C#\CallCenter\CallCenter\obj\Debug\CallCenter.csprojAssemblyReference.cache
+D:\Валера\C#\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+D:\Валера\C#\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+D:\Валера\C#\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+D:\Валера\C#\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+D:\Валера\C#\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+D:\Валера\C#\CallCenter\CallCenter\bin\Debug\Newtonsoft.Json.dll
+D:\Валера\C#\CallCenter\CallCenter\bin\Debug\Newtonsoft.Json.xml
+D:\Валера\C#\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.CopyComplete
